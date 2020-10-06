@@ -1,0 +1,16 @@
+{
+  "root": {
+    "width": "40px",
+    "height": "40px",
+    "border": "1px solid #e9e9e9",
+    "borderRadius": "4px",
+    "display": "flex",
+    "alignItems": "center",
+    "justifyContent": "center",
+    "backgroundColor": "#FFF",
+    "cursor": "pointer",
+    "& svg": {
+      "color": "#a5a5a5"
+    }
+  }
+}
